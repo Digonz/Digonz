@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @Digonz</h1>
 <h3 align="center">NEVER STOP LEARNING BECAUSE LIFE NEVER STOP TEACHING.</h3>
 
-- 👨🏻‍💻 I’m currently working for [Sensolabs](https://sensolabs.cl/)
+- 👨🏻‍💻 I’m currently working for [Pall agroTechnology](http://pall.cl/)
 
-- 🧠 I’m currently learning **React.js**
+- 🧠 I’m currently learning **Angular.js**
 
 - 💡 All of my projects are available at [https://digonz.github.io/portfoliodigonz/](https://digonz.github.io/portfoliodigonz/)
 
